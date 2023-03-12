@@ -1,2 +1,4 @@
 # Practice-GIT
-Learning GIT 
+
+Learn and Practise GIT
+
